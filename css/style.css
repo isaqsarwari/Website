@@ -1,0 +1,141 @@
+body{
+margin: 0;
+text-align: center;
+color: #40514E;
+}
+p{
+	line-height: 2;
+	font-family: 'Nanum Gothic', sans-serif;
+}
+.code-desc{
+	text-align: justify;
+}
+.bike-desc{
+	text-align: justify;
+}
+.p2{
+	font-family: 'Nanum Gothic', sans-serif;
+	font-size: 16px;
+	margin:auto;
+	color: #40514E;
+}
+h1{
+margin: 50px auto 0 auto;
+font-family: 'Great Vibes', cursive;
+font-size: 80px;
+padding-top: 50px;
+color: #66BFBF;
+}
+.p1{
+font-family: 'Nanum Gothic', sans-serif;
+font-weight:normal;
+color: #66BFBF;
+}
+h2{
+font-family: 'Nanum Gothic', sans-serif;
+color: #66BFBF;
+}
+h3{
+font-family: 'Nanum Gothic', sans-serif;
+color: #11999E;
+}
+.pro{
+text-decoration: underline;
+}
+.top-container{
+background-color: #d3f4ff;
+position: relative;
+padding-top: 100px;
+}
+.footer-link{
+color: #11999E;
+}
+.a{
+color: #11999E;
+}
+.top-cloud{
+position: absolute;
+right:300px;
+top:50px;
+}
+.bottom-cloud{
+position: absolute;
+left:300px;
+bottom:300px;
+}
+.middle-container{
+margin-top: 50px;
+}
+.bottom-container{
+background-color: #66BFBF;
+padding: 25px;
+font-family: 'Nanum Gothic', sans-serif;
+}
+a{
+	text-decoration: none;
+	margin:auto 30px;
+	font-family: 'Nanum Gothic', sans-serif;
+}
+.pub{
+margin-top: 50px;
+color: #EAF6F6;
+font-size: 0.8rem;
+}
+.skills{
+padding: 25px;
+margin-top: 25px;
+}
+.skill-row{
+	font-family: 'Nanum Gothic', sans-serif;
+width: 55%;
+margin:100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+.code-img{
+width: 45%;
+float: left;
+margin-right: 30px;
+margin-top: 20px;
+}
+.bike{
+width: 25%;
+float: right;
+margin-left: 30px;
+}
+hr{
+border-style: none;
+border-top-style:dotted;
+border-width: 5px;
+width: 50px;
+size: 3px;
+border-color: grey;
+margin-top: 50px;
+}
+.contact-me{
+margin:50px;
+}
+.btn{
+	color: white;
+	background-color: #66BFBF;
+	padding:0.46em 1.6em;
+ border:0.1em solid #000000;
+ margin:0 0.5em 0.5em 0;
+ border-radius:30%;
+ box-sizing: border-box;
+ text-decoration:none;
+ font-weight:300;
+ color:#000000;
+ text-shadow: 0 0.04em 0.04em rgba(0,0,0,0.35);
+ background-color:#FFFFFF;
+ text-align:center;
+ transition: all 0.15s;
+font-family: 'Nanum Gothic', sans-serif;
+}
+.btn:hover{
+	background-color: #91bd3a;
+
+}
+.footer-link:hover{
+	background-color: white;
+}
